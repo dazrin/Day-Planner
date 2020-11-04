@@ -16,11 +16,15 @@ This application allows you to plan your work day events in a more organized man
 > Website URL: https://dazrin.github.io/Day-Planner/
   
 ## Instructions
-< WIP >
+1. You may enter text into each description box provided to list some activities you may want completed within that hour block
+2. You may click the save button located beside each hour block to save the contents of the block
+3. Any future activities will make the hour block green.
+4. Any present activities will make the hour block gray.
+5. Any past activities will make the hour block red.
 
 ## Screenshot
 
-![DayPlannerScreenshot](https://i.imgur.com/RwSJAXL.png "A webpage featuring a day planner application")
+![DayPlannerScreenshot](https://i.imgur.com/hTYW46n.png "A webpage featuring a day planner application")
 
 
 ## Credits
