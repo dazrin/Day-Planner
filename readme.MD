@@ -11,7 +11,7 @@
 
 ## About
 This is a work day scheduler application made using HTML, CSS and Javascript.
-This application tests your javascript knowledge by asking a series of questions that will determine your score.
+This application allows you to plan your work day events in a more organized manner.
   You can launch the application by clicking [here.](https://dazrin.github.io/Day-Planner/) 
 > Website URL: https://dazrin.github.io/Day-Planner/
   
@@ -20,7 +20,7 @@ This application tests your javascript knowledge by asking a series of questions
 
 ## Screenshot
 
-![CodingQuizScreenshot](https://i.imgur.com/RwSJAXL.png "A webpage featuring a password generator application")
+![DayPlannerScreenshot](https://i.imgur.com/RwSJAXL.png "A webpage featuring a day planner application")
 
 
 ## Credits
