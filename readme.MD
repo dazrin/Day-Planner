@@ -24,7 +24,7 @@ This application allows you to plan your work day events in a more organized man
 
 ## Screenshot
 
-![DayPlannerScreenshot](https://i.imgur.com/hTYW46n.png "A webpage featuring a day planner application")
+![DayPlannerScreenshot](https://i.imgur.com/iQ1bKGH.png "A webpage featuring a day planner application")
 
 
 ## Credits
