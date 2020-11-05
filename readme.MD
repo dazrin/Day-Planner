@@ -1,4 +1,4 @@
-# Coding Quiz
+# Day Planner
 
 # Table of Contents
 * [About](#about)
